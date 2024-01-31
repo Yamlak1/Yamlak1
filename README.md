@@ -3,6 +3,10 @@
 📍 Addis Ababa  
 📞 (+251) 946270789  
 ✉️ yamifikru4@gmail.com  
+📱 <a href="https://t.me/Yamifikru">Telegram: @Yamifikru</a>  
+📸 <a href="https://www.instagram.com/Yamlak.Fikru">Instagram: Yamlak.Fikru</a>  
+🔗 <a href="https://www.linkedin.com/in/yamlak-fikru">LinkedIn: Yamlak Fikru</a>
+
 
 ## Summary
 
