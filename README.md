@@ -15,6 +15,7 @@ Seasoned Front-End Web Developer and Flutter App Developer with a degree in Comp
 ## Skills
 
 - Web Development
+- Telegram bot development
 - React
 - HTML5
 - CSS
@@ -22,6 +23,7 @@ Seasoned Front-End Web Developer and Flutter App Developer with a degree in Comp
 - Application Development
 - Flutter
 - Teamwork
+- Ruby
 
 ## Education
 
